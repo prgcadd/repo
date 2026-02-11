@@ -18,3 +18,18 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
+
+Package: vn.gsm.keyboardplus8
+Version: 0.4.0-25
+Section: Tweaks
+Maintainer: canshe
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm
+Filename: debs/keyboardplus8.deb
+Size: 711554
+MD5sum: 6140b550c546d252028da3ef04eb179e
+Description: Add functions and options for keyboard iOS 8.
+Name: KeyboardPlus8
+Author: canshe
+Depiction: http://cydia.vn/depic/t5816/
+Homepage: http://cydia.vn/
